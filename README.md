@@ -7,7 +7,6 @@ El objetivo principal de este proyecto es desarrollar un sistema de recomendaci�
 **Objetivos específicos:**  
 1. Desarrollar un sistema de recomendación  que analice las calificaciones y preferencias de los usuarios para recomendar los cursos.
 
-1. Entrenar y evaluar los modelos de recomendación utilizando métricas estándar, como la precisión, la cobertura, la novedad y la diversidad de las recomendaciones.
 1. Implementar el sistema de recomendación en una aplicación web o una API para que pueda ser utilizado por usuarios finales.  
 
 

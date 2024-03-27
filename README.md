@@ -6,7 +6,7 @@ El objetivo principal de este proyecto es desarrollar un sistema de recomendaci�
 
 **Objetivos específicos:**  
 1. Desarrollar un sistema de recomendación  que analice las calificaciones y preferencias de los usuarios para recomendar los cursos.
-2. Realizar diferentes tipos de Motores o Sistema de recomendación: Pupularity, Content-based, Colaborative, Avg Weigth, entre otros.
+2. Realizar diferentes tipos de Motores o Sistema de recomendación: Popularity, Content-based, Colaborative, Avg Weigth, entre otros.
 
 1. Implementar  una aplicación web o una API para que pueda ser utilizado por usuarios finales.  
 

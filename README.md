@@ -23,10 +23,10 @@ El objetivo principal de este proyecto es desarrollar un sistema de recomendaci�
 
 **Resultados esperados:**  
 
-Al finalizar este proyecto, se espera contar con un sistema de recomendación de cursos basado en algoritmos de Machine Learning que pueda proporcionar recomendaciones personalizadas y precisas a los usuarios. El sistema podrá sugerir cursos que se ajusten a los intereses y preferencias de cada usuario individual, basándose en el análisis de sus patrones de aprendizaje y las características de los cursos. 
+Se espera contar con un sistema de recomendación de cursos basado en algoritmos de Machine Learning que pueda proporcionar recomendaciones personalizadas y precisas a los usuarios.  
 
 **Conclusión:**  
 
-El desarrollo de un sistema de recomendación de cursos  representa un desafío emocionante que combina técnicas de análisis de datos, procesamiento de texto y aprendizaje automático. Al utilizar enfoques de los direntes tipos de sistema de recomendación,  el sistema podrá aprovechar tanto la sabiduría colectiva de los estudiantes como el análisis detallado de las características y metadatos de los cursos. 
+El desarrollo de un sistema de recomendación de cursos  representa un desafío emocionante combnando técnicas de análisis de datos, procesamiento de texto y aprendizaje automático. Al utilizar enfoques de los direntes tipos de sistema de recomendación,  el sistema podrá aprovechar tanto la sabiduría colectiva, como el análisis detallado de las características de los datos. 
 
 

@@ -36,7 +36,7 @@ Se espera contar con un sistema de recomendación de cursos basado en algoritmos
 
 El desarrollo de un sistema de recomendación de cursos  representa un desafío emocionante combnando técnicas de análisis de datos, procesamiento de texto y aprendizaje automático. Al utilizar enfoques de los direntes tipos de sistema de recomendación,  el sistema podrá aprovechar tanto la sabiduría colectiva, como el análisis detallado de las características de los datos. 
 
-## Notebooks
+### Notebooks
 | Archivo | Contenido |
 |--------|------------------ |
 | [Basado en Popularidad](https://nbviewer.org/github/luishernand/System_Recommendation/blob/main/Base%20on%20Popularity.ipynb) | - Sistema basado en popularidad Score   - sistema basado en Weigted Averages  - sistema basado en 50% (popularity score  y Weigted Averages) |
@@ -44,6 +44,10 @@ El desarrollo de un sistema de recomendación de cursos  representa un desafío 
 | [sigmoid kernel](https://nbviewer.org/github/luishernand/System_Recommendation/blob/main/rec%20collaborative.ipynb) | Sistema colaborativo usando sigmoid kernel |
 |[Basado en Contenido](https://nbviewer.org/github/luishernand/System_Recommendation/blob/main/base%20on%20contend.ipynb) | Basado en contenido |
 | [sistema de recomendacion con su GUI](https://nbviewer.org/github/luishernand/System_Recommendation/blob/main/sistema%20de%20recomendacion.ipynb) | Basado en popularidad y contenido con sus applicación |
+
+## Carpeta de proyectos  
+- Aqui encontraras todos mis proyectos de forma organizada  con sus respectivos archivos.  
+[carpeta de proyectos](https://github.com/luishernand/repositorios)
 
 
 

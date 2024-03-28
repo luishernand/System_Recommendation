@@ -10,6 +10,15 @@ El objetivo principal de este proyecto es desarrollar un sistema de recomendaci�
 
 1. Implementar  una aplicación web o una API para que pueda ser utilizado por usuarios finales.  
 
+**¿Qué es un sistema de recomendación?**  
+Un sistema de recomendación es una herramienta que establece un conjunto de criterios y valoraciones sobre los datos de los usuarios para realizar predicciones sobre recomendaciones de elementos que puedan ser de utilidad o valor para el usuario. Estos sistemas seleccionan datos proporcionados por el usuario de forma directa o indirecta, y procede a analizar y procesar información del historial del usuario para transformar estos datos en conocimiento de recomendación.  
+**Tipos de sistemas de recomendación**  
+Existen varios tipos de sistemas de recomendación:  
+1. Sistemas de popularidad  
+Los sistemas basados en la popularidad son implementados principalmente en las ventas de productos o sugerencias concretas. Estos toman como referencia la popularidad del objeto de estudio por una variable principal que puede ser el número de ventas, una característica especial o inclusive una oferta y se muestra de forma general a todos los usuarios que investiguen el área a la que pertenece el objeto. Estos sistemas suelen ser fáciles de implementar y gozan de cierto nivel de efectividad. Su desventaja principal es la imposibilidad de personalizar los criterios de sugerencia para el usuario.
+
+
+
 
 **Herramientas y tecnologías utilizadas:**  
 
@@ -32,4 +41,5 @@ El desarrollo de un sistema de recomendación de cursos  representa un desafío 
 ## Archivos Soporte  
 | File | Descripción |
 |----|-----------|
+
 

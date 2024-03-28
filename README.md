@@ -29,4 +29,7 @@ Se espera contar con un sistema de recomendación de cursos basado en algoritmos
 
 El desarrollo de un sistema de recomendación de cursos  representa un desafío emocionante combnando técnicas de análisis de datos, procesamiento de texto y aprendizaje automático. Al utilizar enfoques de los direntes tipos de sistema de recomendación,  el sistema podrá aprovechar tanto la sabiduría colectiva, como el análisis detallado de las características de los datos. 
 
+## Archivos Soporte  
+| File | Descripción |
+|----|-----------|
 

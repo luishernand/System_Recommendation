@@ -39,7 +39,7 @@ El desarrollo de un sistema de recomendación de cursos  representa un desafío 
 ## Notebooks
 | Archivo | Contenido |
 |--------|------------------ |
-| [Basado en Popularidad](https://nbviewer.org/github/luishernand/System_Recommendation/blob/main/Base%20on%20Popularity.ipynb) | * Sistema basado en popularidad Score * sistema basado en Weigted Averages sistema en popularity score y Weigted Averages |
+| [Basado en Popularidad](https://nbviewer.org/github/luishernand/System_Recommendation/blob/main/Base%20on%20Popularity.ipynb) | - Sistema basado en popularidad Score   - sistema basado en Weigted Averages  - sistema basado en 50% (popularity score  y Weigted Averages) |
 
 
 

@@ -40,6 +40,10 @@ El desarrollo de un sistema de recomendación de cursos  representa un desafío 
 | Archivo | Contenido |
 |--------|------------------ |
 | [Basado en Popularidad](https://nbviewer.org/github/luishernand/System_Recommendation/blob/main/Base%20on%20Popularity.ipynb) | - Sistema basado en popularidad Score   - sistema basado en Weigted Averages  - sistema basado en 50% (popularity score  y Weigted Averages) |
+| [KNN Colaborativo](https://nbviewer.org/github/luishernand/System_Recommendation/blob/main/Collaborative%20Filtering.ipynb) | Sistema Colaborativo Utilizando KNN |
+| [sigmoid kernel](https://nbviewer.org/github/luishernand/System_Recommendation/blob/main/rec%20collaborative.ipynb) | Sistema colaborativo usando sigmoid kernel |
+|[Basado en Contenido](https://nbviewer.org/github/luishernand/System_Recommendation/blob/main/base%20on%20contend.ipynb) | Basado en contenido |
+| [sistema de recomendacion con su GUI](https://nbviewer.org/github/luishernand/System_Recommendation/blob/main/sistema%20de%20recomendacion.ipynb) | Basado en popularidad y contenido con sus applicación |
 
 
 

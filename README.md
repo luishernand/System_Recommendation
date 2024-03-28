@@ -18,15 +18,15 @@ Un sistema de recomendación es una herramienta que establece un conjunto de cri
 1. Sistemas colaborativos:Este tipo de sistema es muy novedoso ya que genera recomendaciones analizando datos, identificando perfiles y haciendo contraste entre la información del perfil del usuario y la de un colectivo de usuarios. Esto permite al modelo aprender a agrupar perfiles similares y aprender de los datos que recibe de forma general, para desarrollar recomendaciones individuales.
 1. Filtrado colaborativo: Los filtrados colaborativos funcionan de forma especial para hacer predicciones automáticas sobre los intereses de un usuario en particular mediante la recopilación de preferencias o gustos de un mismo consumidor comparados con los datos suministrados por personas con patrones similares.
 
-**Herramientas y tecnologías utilizadas:**  
+<pre>**Herramientas y tecnologías utilizadas:**  
 
-- <pre>Lenguaje de programación: Python
+- Lenguaje de programación: Python
 - Librerías de Machine Learning: Scikit-learn
 - Librerías de análisis de datos: Pandas, NumPy
 - Librerías de procesamiento de texto: NLTK, spaCy
 - Librerías de visualización de datos: Matplotlib, Seaborn, plotly
 - Entorno de desarrollo: Jupyter Notebook
-- Plataforma de despliegue: Streamlit<pre>
+- Plataforma de despliegue: Streamlit
 
 **Resultados esperados:**  
 

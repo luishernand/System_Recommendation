@@ -20,13 +20,13 @@ Un sistema de recomendación es una herramienta que establece un conjunto de cri
 
 **Herramientas y tecnologías utilizadas:**
 
-- <pre>Lenguaje de programación: Python
-- Librerías de Machine Learning: Scikit-learn
-- Librerías de análisis de datos: Pandas, NumPy
-- Librerías de procesamiento de texto: NLTK, spaCy
-- Librerías de visualización de datos: Matplotlib, Seaborn, plotly
-- Entorno de desarrollo: Jupyter Notebook
-- Plataforma de despliegue: Streamlit</pre>
+<pre>Lenguaje de programación: Python
+Librerías de Machine Learning: Scikit-learn
+Librerías de análisis de datos: Pandas, NumPy
+Librerías de procesamiento de texto: NLTK, spaCy
+Librerías de visualización de datos: Matplotlib, Seaborn, plotly
+Entorno de desarrollo: Jupyter Notebook
+Plataforma de despliegue: Streamlit</pre>
 
 **Resultados esperados:**  
 

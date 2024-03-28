@@ -16,9 +16,12 @@ Un sistema de recomendación es una herramienta que establece un conjunto de cri
 Existen varios tipos de sistemas de recomendación:  
 1. Sistemas de popularidad  
 Los sistemas basados en la popularidad son implementados principalmente en las ventas de productos o sugerencias concretas. Estos toman como referencia la popularidad del objeto de estudio por una variable principal que puede ser el número de ventas, una característica especial o inclusive una oferta y se muestra de forma general a todos los usuarios que investiguen el área a la que pertenece el objeto. Estos sistemas suelen ser fáciles de implementar y gozan de cierto nivel de efectividad. Su desventaja principal es la imposibilidad de personalizar los criterios de sugerencia para el usuario.
-
-
-
+1. Sistemas de contenido  
+Los sistemas de recomendación basados en contenido son aquellos que tomando en cuenta algunos datos del historial del usuario intenta predecir que busca el usuario y que sugerencias similares puede mostrar. Este tipo de sistemas es uno de los que tiene mayor presencia en la actualidad. Con ellos podemos descubrir opciones que se ajusten a las características de los productos o contenidos que hemos disfrutado con anterioridad y elegir elementos similares nuevos.
+1. Sistemas colaborativos  
+Este tipo de sistema es muy novedoso ya que genera recomendaciones analizando datos, identificando perfiles y haciendo contraste entre la información del perfil del usuario y la de un colectivo de usuarios. Esto permite al modelo aprender a agrupar perfiles similares y aprender de los datos que recibe de forma general, para desarrollar recomendaciones individuales.
+1. Filtrado colaborativo
+Los filtrados colaborativos funcionan de forma especial para hacer predicciones automáticas sobre los intereses de un usuario en particular mediante la recopilación de preferencias o gustos de un mismo consumidor comparados con los datos suministrados por personas con patrones similares.
 
 **Herramientas y tecnologías utilizadas:**  
 
